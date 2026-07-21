@@ -19,7 +19,7 @@ metadata:
     short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0474_000-J.yaml, hash: 'sha256:dbe04d9da2757f7d039b8fa706182969564e9461196d0370109b35f22a2c9a68'}
+  - {seq: 0, filename: KR6q0474_000-J.yaml, hash: 'sha256:ae37889af7c2a323cfb1939d90f287a9931a73258f4303b679e381bef6f80bac'}
   - {seq: 1, filename: KR6q0474_001-J.yaml, hash: 'sha256:6df6e21e797024e2c69b4111216710b3a86c23f0a1d1de80586005e4eeaafe5d'}
   - {seq: 2, filename: KR6q0474_002-J.yaml, hash: 'sha256:05e016972fee226039df1551a0f95ac22194e140602081bfa21570b925022f5c'}
   - {seq: 3, filename: KR6q0474_003-J.yaml, hash: 'sha256:e2f9d41b92ec236e3aa58fffefcb223bfcb0af835b311b2ee98f43ec3c2909a5'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 9, filename: KR6q0474_009-J.yaml, hash: 'sha256:08ccef47baa25f98d97f3dc94888de4a8fb8351bcabbf4e5da8360366c7f8b4a'}
   - {seq: 10, filename: KR6q0474_010-J.yaml, hash: 'sha256:6a81e3c0a4cfc1e955aadec8effb9ddbda9267256564183df384739b08403599'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0474_000-J.markers.yaml, hash: 'sha256:85e9a362377e3616521f60b6e8530207ef5f5633e8a058efb35c61c6688a8ea6'}
+  - {seq: 0, role: markers, filename: assets/KR6q0474_000-J.markers.yaml, hash: 'sha256:a9b5e779bc1d5e8902df4d949109290f0a906868abd6984d8f3fe826ea426313'}
   - {seq: 1, role: markers, filename: assets/KR6q0474_001-J.markers.yaml, hash: 'sha256:e52a9a4b2cef4d1e4d07a5734b5f4f1a461c35872a9ea9cb9d8c872346b6e120'}
   - {seq: 2, role: markers, filename: assets/KR6q0474_002-J.markers.yaml, hash: 'sha256:7df6a7d7c64375c33f1f1616006beb7281bbf7dd0a9ffd6171bf369788f56a4d'}
   - {seq: 3, role: markers, filename: assets/KR6q0474_003-J.markers.yaml, hash: 'sha256:160eda63fd8c8748f566a7e8e80cb2efdbcadc7f914e5a7f662a6cbd5ecc1b28'}
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0474_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 緣起
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0474_J_000-mulu-2
     span:
-    - front
+    - body
     - 1128
     - 1128
   label: 目次
@@ -1773,4 +1773,4 @@ table_of_contents:
   label: 行狀
   type: mulu
   level: 1
-hash: sha256:ce77e80a742f8a2453181b17b01e5de35d8f4e25c7d013ce30d87a18a0bf87b3
+hash: sha256:67760214fd5a9786a73c11e8c766d8321715b8c3f3063b2e8d4565493f0dd32c

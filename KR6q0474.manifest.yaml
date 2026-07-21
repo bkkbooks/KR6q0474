@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0474_000.yaml, hash: 'sha256:6066f4bb27dc40435a219f4804cd5b2b1a4dceb3c02e123d4d98151ad98e725f'}
+  - {seq: 0, filename: KR6q0474_000.yaml, hash: 'sha256:0594f60cc74ee72d09e1f62ba6ae3f8314162068f9878d40c8192a74e58a373c'}
   - {seq: 1, filename: KR6q0474_001.yaml, hash: 'sha256:db5ce3aa0e45e748c7d1e9e158b553d79cb7ee866c06fd964c987c4679e202b6'}
   - {seq: 2, filename: KR6q0474_002.yaml, hash: 'sha256:0aeb31d409111a51dafbc75204a7814b7f57c01c9b50643f6da43c57f6ba9874'}
   - {seq: 3, filename: KR6q0474_003.yaml, hash: 'sha256:61a9f0d0c0a716104a2a03697cff9857bf70748c599a1cfb51a4f160bc8b0f4b'}
@@ -33,7 +33,7 @@ assets:
   - {seq: 9, filename: KR6q0474_009.yaml, hash: 'sha256:1edf76acf9eaff07f984b613cc6822db20358afd25968b4538de17534a040aa7'}
   - {seq: 10, filename: KR6q0474_010.yaml, hash: 'sha256:f566caf5c1bbc1634f046d3fe7f8b18235c7130ddb27b50bfbc67606bf3315ac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0474_000.markers.yaml, hash: 'sha256:1c03d41c490baca54430579656b97d9b705f3a761c6541a5469a879d76923f08'}
+  - {seq: 0, role: markers, filename: assets/KR6q0474_000.markers.yaml, hash: 'sha256:35da995b09539b94b14e06b190e6c16e94e4cff6ea7758e67a29cadd61b72003'}
   - {seq: 1, role: markers, filename: assets/KR6q0474_001.markers.yaml, hash: 'sha256:49e8709f360ac9b5be1f83fc2ba9f920411589eea84134a14b924c843dedbbaf'}
   - {seq: 2, role: markers, filename: assets/KR6q0474_002.markers.yaml, hash: 'sha256:0208f210594e5f5fbbe993189b8e29275051dba0f9b30ab0891ef2eb9eafb684'}
   - {seq: 3, role: markers, filename: assets/KR6q0474_003.markers.yaml, hash: 'sha256:56226a725a4a5c5642310d029797ed08382f534cf95b6bd01baceb3ff4da4fb9'}
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0474_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 緣起
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0474_J_000-mulu-2
     span:
-    - front
+    - body
     - 1128
     - 1128
   label: 目次
@@ -1775,7 +1775,7 @@ table_of_contents:
   label: 行狀
   type: mulu
   level: 1
-hash: sha256:615cf9b0fe4c0ee14be8f793ea7e8e30e0a340a734e162eb76dc5a40b00a1f0c
+hash: sha256:2c557cd4a83c1dcf7a05c5dfadeadc90ce0bd2cfe611db22b69bef313e706f46
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
